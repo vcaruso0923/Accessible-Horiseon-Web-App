@@ -1,3 +1,4 @@
+/*General Rules*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -26,6 +27,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header and Hero Rules*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -64,6 +66,8 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/*Main Content Rules*/
 .content {
     width: 75%;
     display: inline-block;
@@ -87,6 +91,7 @@ body {
     font-size: 36px;
 }
 
+/*Benefits Rules*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,6 +120,7 @@ body {
     max-width: 150px;
 }
 
+/*Footer Rules*/
 .footer {
     padding: 30px;
     clear: both;
