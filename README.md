@@ -19,4 +19,4 @@ THEN you find a concise, descriptive title DONE!!!!!
 ```
 Screenshot of the deployed application: 
 
-![Screenshot of the deployed application](/assets/images/screenshot-for-readme.PNG?raw=true) 
+[![screenshot-for-readme.png](https://i.postimg.cc/XYPq7ntQ/screenshot-for-readme.png)](https://postimg.cc/DSqnx3vX)
