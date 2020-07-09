@@ -1,7 +1,11 @@
+# Horiseon Web App
+
+## Overview
 An updated version of Horiseon's web application that follows accessibility standards and is optimized for search engines. The main content is made of sections defining search engine optimization, online reputation management, and social media marketing. A sidebar includes information about the benefits: lead generation, brand awareness, and cost management. The header of the page establishes branding and provides links to each of the pieces of primary content on the page. A common footer is also established. 
 
-Fixes were applied to accomplish the following: 
+## Link
 
+## Functionality
 WHEN you view the source code
 THEN you find semantic HTML elements
 
