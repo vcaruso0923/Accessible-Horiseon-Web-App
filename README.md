@@ -21,5 +21,4 @@ then they fall in sequential order.
 
 When you view the title element,
 then you find a concise, descriptive title.
-
-![Horiseon](/demo.PNG)
+![horiseon](https://user-images.githubusercontent.com/62676730/100019126-66512080-2d92-11eb-8235-013b01e36cde.PNG)
